@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@200;400;600&display=swap');
+
+*
+{
+    font-family: 'Urbanist', sans-serif;
+    background-color: #242424;
+    margin: 0;
+    padding: 0;
+    color: #FFFFFF;
+}
+
+hr
+{
+    background-color: rgba(255, 32, 58);
+    border: 2px solid rgba(255, 32, 58);
+    border-radius: 6px;
+}
+
+h3
+{
+    text-align: center;
+}
+
+.container
+{
+    border: 20px;
+    border-right: 2px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.header
+{
+margin-left: 12%;
+margin-right: 12%;
+background-color:#FFFFFF;
+text-align: center;
+color:#242424;
+font-size: 18px;
+font-weight: 600;
+border-bottom-left-radius:6px ;
+border-bottom-right-radius:6px ;
+}
+
+.wellcome
+{
+    padding-top: 7%;
+    padding-bottom: 6%;
+    padding-left: 25%;
+    font-size: 30px;
+
+}
+
+.about
+{
+
+    font-size: 22px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.about > p
+{
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.skill
+{
+    font-size: 18px;
+
+}
+
+.skill>ul>li
+{
+    list-style: none;
+    display: inline-grid;
+    align-items: center;
+    align-content: space-around;
+    text-align: center;
+    font-size: 28px;
+
+}
+
+
+.tech>section
+{
+    display: inline-grid;
+    align-items: center;
+    justify-content: center;
+    align-content: space-around;
+}
+.tech>section>div>img{
+
+    max-width:  50%;
+
+
+}
+.tech>section>div>p{
+
+  font-size: 25px;
+}
