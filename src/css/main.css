@@ -95,8 +95,19 @@ border-bottom-right-radius:6px ;
     max-width:  50%;
 
 
-}
+}S
 .tech>section>div>p{
 
   font-size: 25px;
 }
+
+footer{
+    padding-left: 40%;
+align-content: center;
+
+}
+footer>img{
+max-width: 350px;
+}
+
+
