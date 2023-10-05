@@ -16,6 +16,21 @@ Soy competente en una variedad de tecnologías, incluyendo:
 - **Lenguajes de Programación:** Kotlin, Java
 - **Desarrollo Front-end:** HTML, CSS, JavaScript, React
 - **Sistemas Operativos:** Linux y Windows
+## Proyectos Destacados
+
+Aquí tienes algunos de los proyectos en los que he trabajado:
+
+1. Clon de Spotify en React (spotify-clone-unrecovery.vercel.app):Un clon de Spotify usando React.JS, con motor en Node.JS y usando las Apis de Desarrollo de Spotify
+
+   ![Captura de Pantalla del Proyecto 1](https://github.com/unrecovery/capturas/blob/8c3d16b1d34a9cf5428e334e0c1aaca956570d33/1.png)
+
+2. [Proyecto 2](Enlace al Repositorio): Una descripción breve del proyecto 2.
+
+   ![Captura de Pantalla del Proyecto 2](Enlace a la Captura de Pantalla)
+
+3. [Proyecto 3](Enlace al Repositorio): Una descripción breve del proyecto 3.
+
+   ![Captura de Pantalla del Proyecto 3](Enlace a la Captura de Pantalla)
 
 ## Contacto
 
