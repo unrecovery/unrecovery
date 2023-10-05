@@ -20,7 +20,7 @@ Soy competente en una variedad de tecnologías, incluyendo:
 
 Aquí tienes algunos de los proyectos en los que he trabajado:
 
-1. Clon de Spotify en React (spotify-clone-unrecovery.vercel.app):Un clon de Spotify usando React.JS, con motor en Node.JS y usando las Apis de Desarrollo de Spotify
+1. Clon de Spotify en React (https://spotify-clone-unrecovery.vercel.app/):Un clon de Spotify usando React.JS, con motor en Node.JS y usando las Apis de Desarrollo de Spotify
 
    ![Captura de Pantalla del Proyecto 1](https://github.com/unrecovery/capturas/blob/8c3d16b1d34a9cf5428e334e0c1aaca956570d33/1.png)
 
