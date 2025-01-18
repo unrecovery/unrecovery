@@ -1,10 +1,10 @@
 # ¡Hola, soy Kevin Gabriel Rodriguez! 👋
 
-Soy un estudiante de Software apasionado por la programación y el desarrollo web. Tengo 21 años y me encanta tocar la guitarra, escuchar música y leer en mi tiempo libre.
+Soy un estudiante de Software apasionado por la programación y el desarrollo web. Tengo 23 años y me encanta tocar la guitarra, escuchar música y leer en mi tiempo libre.
 
 ## Acerca de mí
 
-- 💻 Estudiante de Ingenieria de Gestion y Desarrollo de Software en la Universidad Tecnologica de Tabasco
+- 💻 Estudiante de Ingenieria de Gestion y Desarrollo de Software
 - 🌍 Vivo en Villahermosa, Mexico
 - 🎸 Amante de la música y apasionado por la programación
 - 📚 Siempre buscando aprender y mejorar mis habilidades técnicas
